@@ -1,5 +1,15 @@
 # Random Quote Generator
 
-[![Build Status](https://travis-ci.org/robertdebock/ansible-role-random_quote_generator.svg?branch=master)](https://travis-ci.org/robertdebock/ansible-role-random_quote_generator)
-Generate and share random quote
+![Random Quote Generator](random-q.png)
 
+## Description
+This is a random quote generator that displays a random quote from an API quotes.
+It's a part of the FreeCodeCamp Front End Libraries Projects.
+
+## How to run
+live link: [Random-Quote-Generator](https://yasinalhadi.github.io/random-quote/)
+
+## Technologies used
+- HTML
+- CSS
+- JavaScript (React)
